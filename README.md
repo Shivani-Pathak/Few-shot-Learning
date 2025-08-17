@@ -1,3 +1,3 @@
 # Few-shot-Learning
 
-It is introduction to few shot Learning and help you understant how it works.
+It is introduction to Few shot Learning and help you understand how it works.
